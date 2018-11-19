@@ -1,0 +1,7 @@
+# RabbitMQ.EventBus.AspNetCore 　　　　　　　　　　[Wiki](https://github.com/ojdev/RabbitMQ.EventBus.AspNetCore/wiki/RabbitMQ.EventBus.AspNetCore.Butterfly)
+[![DNC](https://img.shields.io/badge/.netcore-%3E%3D2.0-green.svg)](#)
+[![AppVeyor](https://img.shields.io/appveyor/ci/ojdev/rabbitmq-eventbus-aspnetcore-butterfly.svg?style=popout)](https://ci.appveyor.com/project/ojdev/rabbitmq-eventbus-aspnetcore-butterfly)
+[![NuGet](https://img.shields.io/nuget/v/RabbitMQ.EventBus.AspNetCore.Butterfly.svg?style=popout)](https://www.nuget.org/packages/RabbitMQ.EventBus.AspNetCore.Butterfly)
+[![NuGet](https://img.shields.io/nuget/dt/RabbitMQ.EventBus.AspNetCore.Butterfly.svg?style=popout)](https://www.nuget.org/packages/RabbitMQ.EventBus.AspNetCore.Butterfly)
+[![GitHub license](https://img.shields.io/github/license/ojdev/RabbitMQ.EventBus.AspNetCore.Butterfly.svg)](https://github.com/ojdev/RabbitMQ.EventBus.AspNetCore.Butterfly/blob/master/LICENSE)
+[![FangPlus license](https://img.shields.io/badge/FangPlus-2.0-green.svg)](https://ch.hrb.housecool.com)

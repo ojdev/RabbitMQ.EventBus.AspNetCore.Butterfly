@@ -1,4 +1,4 @@
-# RabbitMQ.EventBus.AspNetCore 　　　　　　　　　　[Wiki](https://github.com/ojdev/RabbitMQ.EventBus.AspNetCore/wiki/RabbitMQ.EventBus.AspNetCore.Butterfly)
+# RabbitMQ.EventBus.AspNetCore.Butterfly　　　　[Wiki](https://github.com/ojdev/RabbitMQ.EventBus.AspNetCore/wiki/RabbitMQ.EventBus.AspNetCore.Butterfly)
 [![DNC](https://img.shields.io/badge/.netcore-%3E%3D2.0-green.svg)](#)
 [![AppVeyor](https://img.shields.io/appveyor/ci/ojdev/rabbitmq-eventbus-aspnetcore-butterfly.svg?style=popout)](https://ci.appveyor.com/project/ojdev/rabbitmq-eventbus-aspnetcore-butterfly)
 [![NuGet](https://img.shields.io/nuget/v/RabbitMQ.EventBus.AspNetCore.Butterfly.svg?style=popout)](https://www.nuget.org/packages/RabbitMQ.EventBus.AspNetCore.Butterfly)

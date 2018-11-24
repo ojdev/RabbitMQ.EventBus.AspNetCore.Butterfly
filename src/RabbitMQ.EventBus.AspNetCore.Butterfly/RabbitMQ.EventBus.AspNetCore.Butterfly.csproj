@@ -12,11 +12,13 @@
     <RepositoryType>github</RepositoryType>
     <PackageTags>rqbbitmq,dnc,eventbus,butterfly</PackageTags>
     <Description>RabbitMQ.EventBus.AspNetCore.Butterfly</Description>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Housecool.Butterfly.Client.AspNetCore" Version="0.0.11" />
     <PackageReference Include="RabbitMQ.EventBus.AspNetCore" Version="1.1.39" />
   </ItemGroup>
+
 
 </Project>

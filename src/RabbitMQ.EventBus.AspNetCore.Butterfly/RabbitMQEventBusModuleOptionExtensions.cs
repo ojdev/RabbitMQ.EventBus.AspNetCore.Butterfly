@@ -11,9 +11,9 @@ namespace Microsoft.Extensions.DependencyInjection
         /// <param name="build"></param>
         /// <param name="tracer"></param>
         /// <returns></returns>
-        public static RabbitMQEventBusModuleOption AddButterfly(this RabbitMQEventBusModuleOption build, IServiceTracer tracer)
+        public static RabbitMQEventBusModuleOption AddButterfly(this RabbitMQEventBusModuleOption build)
         {
-            build.AddModule(ButterflyModuleHandler.Handle(tracer));
+            build.AddModule(ButterflyModuleHandler.Handle(build.ApplicationServices.GetRequiredService<IServiceTracer>()));
             return build;
         }
     }
